@@ -1,0 +1,1 @@
+# No third-party dependencies: runtime and tests use Python's standard library.
